@@ -4,6 +4,6 @@ A react native app to list the 100 first Github repositories from their public A
 Attention: Github limits to 60 requisitions per hour by IP.
 
 ## Run the project
-Plug the deviceor emulator and run the following commands:
+Plug the device or emulator and run the following commands:
 1. npm install
 2. react native run android
