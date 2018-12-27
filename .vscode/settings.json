@@ -1,0 +1,9 @@
+{
+  "prettier.eslintIntegration": false,
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": false,
+  "tslint.autoFixOnSave": false,
+  "[javascript]": {
+    "editor.formatOnSave": false
+},
+}
